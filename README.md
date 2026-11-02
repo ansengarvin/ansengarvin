@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ansen Garvin's Nonprofessional GitHub
+
+Hello! This GitHub account is where I keep archived university work and maintain some nonprofessional, just-for-fun personal projects. For my professional and OSS account, see [agarvin-nr](https://github.com/agarvin-nr).
+
+You may find more information about me on my website, [ansengarvin.com](https://ansengarvin.com/).
 
 <!--
 **ansengarvin/ansengarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
