@@ -1,4 +1,4 @@
-### Ansen Garvin's Nonprofessional GitHub
+### Ansen Garvin
 
 Hello! This GitHub account is where I keep archived university work and maintain some nonprofessional, just-for-fun personal projects. For my professional and OSS account, see [agarvin-nr](https://github.com/agarvin-nr).
 
